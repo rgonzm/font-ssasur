@@ -8,5 +8,8 @@
     "sort-packages": true,
     "optimize-autoloader": true
   },
+  "autoload": {
+    "psr-0": { "ssasur-font\\CSS": "lib/" }
+  },
   "dependencies": {}
 }
