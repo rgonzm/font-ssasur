@@ -13,10 +13,5 @@
     "psr-0": {
       "ssasur-font\\CSS": "lib/"
     }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "master"
-    }
   }
 }
