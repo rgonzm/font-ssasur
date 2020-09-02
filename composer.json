@@ -9,7 +9,13 @@
     "optimize-autoloader": true
   },
   "autoload": {
-    "psr-0": { "ssasur-font\\CSS": "lib/" }
+    "psr-0": {
+      "ssasur-font\\CSS": "lib/"
+    }
   },
-  "dependencies": {}
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master"
+    }
+  }
 }
